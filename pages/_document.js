@@ -8,7 +8,7 @@ export default function Document() {
         <meta property="og:description" content="Create engaging and concise Twitter threads." key="description"/>
         <meta
           property="og:image"
-          content=""
+          content="https://github.com/rufenmatt/gpt-3-twitter-thread-generator/blob/main/assets/feature-img.png"
         />
         <meta name="twitter:card" content="summary_large_image"></meta>
       </Head>
